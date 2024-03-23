@@ -1,0 +1,13 @@
+<svg width="30.000000" height="30.000000" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip20_97">
+			<rect id="arrow / chevron_big_left" width="30.000000" height="30.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip20_97)">
+		<path id="coolicon" d="M19.4187 4.3938L8.8125 15L19.4187 25.6062L21.1875 23.8389L12.3474 15L21.1875 6.16138L19.4187 4.3938Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
